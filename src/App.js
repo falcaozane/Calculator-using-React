@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './Components/Header';
-import  Counter from './Components/Counter';
+//import Header from './Components/Header';
+//import  Counter from './Components/Counter';
 import { useState } from 'react';
 
 function App() {
